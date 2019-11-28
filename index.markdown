@@ -12,5 +12,6 @@ layout: home
 </head>
 <body>
   <h1>TBD</h1>
+  <script src="{{ base.url | prepend: site.url }}/assets/test.js"></script>
 </body>
 </html>
