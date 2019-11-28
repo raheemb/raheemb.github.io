@@ -7,10 +7,10 @@ layout: home
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Raheem Barnett | Scientist + Artist<title>
+    <meta charset="UTF-8">
+    <title>Raheem Barnett | Scientist + Artist<title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.js"></script>
+    <script src="{{ base.url | prepend: site.url }}/assets/test.js"></script>
 </head>
 <h1>TBD</h1>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.js"></script>
-<script src="{{ base.url | prepend: site.url }}/assets/test.js"></script>
 </html>
