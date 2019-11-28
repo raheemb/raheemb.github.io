@@ -12,6 +12,5 @@ layout: home
 </head>
 <body>
   <h1>TBD</h1>
-  <footer>(c) Raheem Barnett 2019</footer>
 </body>
 </html>
