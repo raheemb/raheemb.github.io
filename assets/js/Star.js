@@ -30,7 +30,7 @@ function Star() {
 
     var sr = map(this.r / this.z, 0, 1, 0, width);
 
-    var re = map(this.z, 0, width, 16, 0);
+    var re = map(this.z, 0, width, 12, 0);
     ellipse(sr*cos(this.d), sr*sin(this.d), re, re);
 
     var pr = map(this.r / this.pz, 0, 1, 0, width);
