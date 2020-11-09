@@ -4,4 +4,4 @@ title: art
 permalink: /art/
 ---
 
-some artistic endeavours
+some artistic explorations

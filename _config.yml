@@ -22,11 +22,11 @@ title: Raheem Barnett | Scientist + Artist
 author: Raheem Barnett
 email: rmb.create@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place for things.
+  An evolving gallery of eclectic artistic explorations and scientific endeavours.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raheembarnett.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:
+github_username: raheemb
 
 # Build settings
 # theme: minima

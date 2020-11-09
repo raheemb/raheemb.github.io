@@ -35,7 +35,7 @@
     line-height: $base-line-height;
 
     &:hover {
-      color: rgb(67, 204, 203)
+      color: $brand-color;
     }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
